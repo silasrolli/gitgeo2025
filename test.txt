@@ -2,4 +2,8 @@ Hallo Welt ich bin die erste GIT Datei
 
 hallo nochmal
 
+<<<<<<< HEAD
 shdgfhfkfds
+=======
+hallo ich bin die neue zeile aus test_branch
+>>>>>>> test_branch
