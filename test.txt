@@ -4,6 +4,9 @@ hallo nochmal
 
 <<<<<<< HEAD
 shdgfhfkfds
-=======
-hallo ich bin die neue zeile aus test_branch
->>>>>>> test_branch
+
+sali du
+
+
+
+
